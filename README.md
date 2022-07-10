@@ -23,7 +23,7 @@ O módulo mais básico é o de cadastro, onde você pode lançar as ordens, nota
 
 O segundo módulo é o de day trade, que calcula os valores que você precisa usar para pagar o DARF, relativo aos day trade. Além disso, é mantido um eventual prejuízo acumulado para que o investidor possa usar no futuro.
 
-Um terceiro módulo é o que calcula a carteira do investidor.
+O terceiro módulo é o que calcula a carteira do investidor.
 
 O quarto módulo é o de swing trade. Este leva em consideração os eventos corporativos do módulo de cadastro.
 
