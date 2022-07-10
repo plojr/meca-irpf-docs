@@ -8,11 +8,11 @@ Este módulo é responsável por calcular os day trades existentes a partir do m
 
 Os trades são gerados a partir das notas de corretagem que foram adicionadas usando o módulo Meca-IRPF-Cadastro.
 
-Clique em "Gerar day trades do investidor" para que os day trades sejam gerados e adicionados no banco de dados. Eles serão gerados a partir do cadastro das notas de corretagem no módulo Meca-IRPF-Cadastro. Lembrando que, neste módulo, não é possível fazer nenhum cadastro.
+Observando o menu, você irá poderá clicar em "Gerar day trades do investidor" para que os day trades sejam gerados e adicionados no banco de dados. Eles serão gerados a partir do cadastro das notas de corretagem no módulo Meca-IRPF-Cadastro. Lembrando que, neste módulo, não é possível fazer nenhum cadastro.
 
-Clique em "Mostrar day trades do investidor" para que você veja quais são os day trades que foram feitos a partir das notas de corretagem que foram cadastradas. Um ponto a ser notado: quando você clica em "Gerar day trades do investidor", a página é direcionada para a funcionalidade de "Mostrar day trades do investidor" após a inserção dos dados no banco de dados.
+Também poderá clicar em "Mostrar day trades do investidor" para que você veja quais são os day trades que foram feitos a partir das notas de corretagem que foram cadastradas. Um ponto a ser notado: quando você clica em "Gerar day trades do investidor", a página é direcionada para a funcionalidade de "Mostrar day trades do investidor" após a inserção dos dados no banco de dados.
 
-Clique em "Gerar relatório day trade" para ver os dados que devem ser lançados no programa de imposto de renda da Receita Federal.
+Por firm, existe a funcionalidade "Gerar relatório day trade" para ver os dados que devem ser lançados no programa de imposto de renda da Receita Federal.
 
 ## Objetivo
 
