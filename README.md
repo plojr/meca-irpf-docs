@@ -1,15 +1,17 @@
 # MeCa-IRPF
 
 ## Resumo
-Este projeto é para aqueles que investem na Bolsa de Valores no Brasil e precisam de dados para declarar no software da Receita Federal. Ele é um dos módulos de um projeto pessoal chamado MeCa.
+Este projeto é para aqueles que compram ações no mercado à vista na B3 e precisam de dados para declarar no software da Receita Federal. Ele é um dos módulos de um projeto pessoal chamado MeCa.
 
 ## Disclaimer
-Não usem esta aplicação como verdade absoluta. Eu estudei como calcular cada dado, porém erros podem acontecer. Por isso, sugiro que usem esta aplicação só para comparar com os seus cálculos. Não me responsabilizo por informações erradas que esta aplicação possa apresentar, já que ela estará em constante evolução. Caso encontre alguma diferença discrepante com seus próprios cálculos, e se estiver disposto/disposta a encontrar qual parte do código está com problema, sinta-se à vontade para corrigi-lo.
+Não usem esta aplicação como verdade absoluta. Eu estudei como calcular cada dado, porém erros podem acontecer. Interpretações diferentes também podem acontecer. Por isso, sugiro que usem esta aplicação só para comparar com os seus próprios cálculos. Não me responsabilizo por informações erradas que esta aplicação possa apresentar, já que ela estará em constante evolução. Caso encontre alguma diferença discrepante com seus próprios cálculos, e se estiver disposto/disposta a encontrar qual parte do código está com problema, sinta-se à vontade para corrigi-lo.
 
-Eu nunca fiz um cálculo manual para lançar estes dados no programa da Receita Federal e utilizo o algoritmo desta aplicação há mais de 5 anos. Nunca tive problemas com os dados declarados para a Receita Federal. Espero continuar assim. :-)
+Eu nunca fiz um cálculo manual para lançar os dados no programa da Receita Federal e utilizo o algoritmo desta aplicação há mais de 5 anos. Nunca tive problemas com os dados declarados para a Receita Federal. Espero continuar assim. :-)
+
+Por fim, gostaria de deixar claro que este módulo, MeCa-IRPF, só serve para lançar os dados relativos a ações no mercado à vista. Isso significa que derivativos, commodities etc não devem ser lançados aqui.
 
 ## Objetivo
-O intuito destes módulos é fornecer os dados que você precisa lançar no programa da Receita Federal, em "Bens e Direitos" e também na parte de "Renda Variável". Em "Bens e Direitos", serão lançados seus ativos, o CNPJ da empresa e a situação no dia 31/12. Em "Renda Variável", será possível lançar o lucro acumulado para as vendas em até 20.000,00, os prejuízos de cada mês, o lucro mensal - e também o imposto de renda que deverá pagar em cima dele - para vendas que ultrapassarem os 20.000,00 e também os lucros e prejuízos que obtiver nos day trade.
+O intuito destes módulos é fornecer os dados que você precisa lançar no programa da Receita Federal, em "Bens e Direitos", "Rendimentos isentos" e também na parte de "Renda Variável". Em "Bens e Direitos", serão lançados seus ativos, o CNPJ da empresa e a situação no dia 31/12. Em "Renda Variável", será possível lançar o lucro acumulado para as vendas em até 20.000,00, os prejuízos de cada mês, o lucro mensal - e também o imposto de renda que deverá pagar em cima dele - para vendas que ultrapassarem os 20.000,00 e também os lucros e prejuízos que obtiver nos day trade.
 
 ## Como devo lançar as notas de corretagem?
 A minha sugestão é que você lance, preferencialmente, todas as suas notas de corretagem. Existe um tipo de caso onde isso não é preciso. É quando você está com sua posição de ações totalmente zerada, isto é, sem ter nenhuma ação em sua carteira. Neste caso, você pode começar a lançar as ações que comprar a partir de então, desde que você não queira saber dos dados de anos anteriores. Porém, se esse não for o seu caso, o custo das compras feitas de uma determinada ação no passado pode influenciar, ou não, no custo atual. Não influenciaria no custo atual dadas algumas condições bem específicas.
